@@ -1,3 +1,2 @@
 # Assign-03-Python
-[![Run on Repl.it](https://repl.it/badge/github/ICS3U-C-Programming-AnastasiaFP/Assign-03-Python)](https://repl.it/github/ICS3U-C-Programming-AnastasiaFP/Assign-03-Python)
-
+[![Mr Coxall's Super Linter](https://github.com/ICS3U-C-Programming-AnastasiaFP/Assign-03-Python/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICS3U-C-Programming-AnastasiaFP/Assign-03-Python/actions/)
